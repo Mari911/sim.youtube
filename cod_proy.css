@@ -1,0 +1,115 @@
+/*area del contenido*/
+*{
+	margin: 0px;/*MARGEN*/
+	padding: 0px;/*RELLENO*/
+	font-family: arial;
+	box-sizing: border-box;
+}
+body {
+	background: #F7F9F9;
+}
+/*#menuconten1{
+	 display: none;
+     position: absolute;
+     background-color: #f6f6f6;
+     min-width: 230px;
+     overflow: auto;
+     border: 1px solid #ddd;
+     z-index: 1;
+}
+#menuconten2{
+	color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}*/
+
+header{
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	height: 55px;
+	color: 200;
+	background: white; 
+	
+}
+#buscador{
+	margin-top: 15px;
+   	margin-left: 60px;
+   	width: 600px;
+	height: 30px;
+	font-size: 20px;
+	text-indent: 10px;
+}
+#section1{
+	height: 440px;
+	width: 650px;
+	margin-top: 0px;
+	margin-left: 70px;
+	padding-left: 10px;
+	background: none;
+	float: left;
+}
+#section2{
+	float: left;
+	height: 360px;
+	width: 670px;
+	margin-top: 20px;
+	margin-left: 70px;
+	background: none;
+	display: block;
+	padding-left: 0px;
+	background: none;
+
+}
+#section3{
+	float: left;
+	height: 360px;
+	width: 670px;
+	margin-top: 0px;
+	margin-left: 70px;
+	padding-left: 5px;
+	background: none;
+}
+#vide{
+	margin-top: 25px;
+	margin-left: 0px;
+	width: 670px;
+	height: 425px;
+	
+
+}
+.content-search{
+	width: 100px;
+	height: 100vh;
+	position: fixed;
+	top: 60px;
+	left: 0px;
+	background: rgba(0,0,0,0,3);
+}
+#p1{
+	padding-top:  15px;
+	padding-left: 25px;
+	font-size: small;
+}
+#p2{
+	padding-top: 10px;
+	padding-left: 25px;
+	color:#1f1f14;
+	font-size: small;
+}
+aside{
+margin-top: 15px;
+	width: 400px;
+	height: 800px;
+	background: none;
+	float: right;
+	margin-left: 15px;
+	
+}
+#general{
+	width: 100%;
+	height: 700px;
+	background: blue;
+}
